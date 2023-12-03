@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599425892448",
+    "project_id": "singin-debf8",
+    "storage_bucket": "singin-debf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599425892448:android:b98cc98808ba2277f3c305",
+        "android_client_info": {
+          "package_name": "com.example.googlesingin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQiaEd7bZnXfUFIkDJiCbIp5WclXEyGOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
